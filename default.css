@@ -20,8 +20,23 @@ h2{
     text-decoration: none;
     color: #000000;
 }
+
+h2{
+    font-family: Segoe UI;
+    font-size: 15;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
    
 p{
+    font-family: Segoe UI;
+    font-size: 14;
+    text-decoration: none;
+    color: #000000;
+}
+
+li{
     font-family: Segoe UI;
     font-size: 14;
     text-decoration: none;
