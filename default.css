@@ -19,6 +19,7 @@ h2{
     font-weight: bold;
     text-decoration: none;
     color: #000000;
+    background:#EAEAEA;
 }
 
 h3{
@@ -46,6 +47,15 @@ li{
 td{
     font-family: Segoe UI;
     font-size: 14;
+    text-decoration: none;
+    color: #000000;
+    vertical-align: top;
+    padding: 5px;
+}
+
+th{
+    font-family: Segoe UI;
+    font-size: 16;
     text-decoration: none;
     color: #000000;
 }
